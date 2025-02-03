@@ -10,7 +10,7 @@ I am a Cyber Security Student with a profound interest in technology and a dedic
 Greetings, my name is Priyansh, and I am pursuing a Bachelor of Computer Applications degree. My focus also extends to Cyber Security, AI and Blockchain Development.
 
 
-## ⇢ Objective
+<!-- ## ⇢ Objective -->
 <!--
     [Provide Objective - Remove this afterwards]]
 -->
