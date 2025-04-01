@@ -1,31 +1,26 @@
-# Hello, I'm Priyansh Khandal
-<a href="https://www.linkedin.com/in/priyanshkhandal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
+<div align="center">
+    <strong><i>"Cybersecurity isn’t just a subject—it’s a battlefield. I don’t just play the game; I redefine it."</i></strong><br>
+    <strong><i>"Cybersecurity isn’t just something I study—it’s a battlefield, and I like to stay three steps ahead."</i></strong><br>
+    <br>
+    <a href="https://www.linkedin.com/in/priyanshkhandal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+<hr>
 
 <!--
-[Brief Introduction - Remove this afterwards]
 I am a Cyber Security Student with a profound interest in technology and a dedication to solving complex problems.
 Greetings, my name is Priyansh, and I am pursuing a Bachelor of Computer Applications degree. My focus also extends to Cyber Security, AI and Blockchain Development.
 -->
 
-Cybersecurity isn’t just something I study—it’s a battlefield, and I like to stay three steps ahead. I’m Priyansh Khandal, a cybersecurity enthusiast specializing in Python development, malware analysis, bug hunting, and network security. I’ve earned certifications from Cisco and Microsoft, and my latest project—a real-time keylogger detection tool—taught me how to think like an attacker to build stronger defenses. I thrive on solving complex security challenges, and I’m always looking for ways to push the boundaries of cybersecurity.
+<br>I’m <strong>Priyansh Khandal</strong>, a cybersecurity enthusiast specializing in Python development, malware analysis, bug hunting, and network security. I’ve earned certifications from Cisco and Microsoft, and my latest project-a real-time keylogger detection tool—taught me how to think like an attacker to build stronger defenses. I thrive on solving complex security challenges, and I’m always looking for ways to push the boundaries of cybersecurity.
 
 
-<!-- ## ⇢ Objective -->
-<!--
-    [Provide Objective - Remove this afterwards]]
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
+<!-- 
+## ⇢ Objective
+    My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
 -->
+<br>
 
----
-<!--
 ## ⇢ Skills
--->
-<!--
-    [Provide skills and associated projects. Make sure to hyperlink the project - Remove this afterwards]]
--->
-<!--
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="">Detection Lab</a>|
@@ -36,12 +31,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | <a href="">SOC Automation Lab</a>|
 
 ## ⇢ Tools
--->
-
-<!--
-    [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
--->
-
 
 ### Network
 <div>
@@ -96,30 +85,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <!--<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />    VScode-->
 <!--</div>-->
 
-
-
-
-<!--
-## ⇢ Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterward]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
--->
-
-
 ## ⇢ Recent Projects
- - Cypertext - a Python-based cryptographic tool to encrypt and decrypt the text. 
+- Cypertext - a Python-based cryptographic tool to encrypt and decrypt the text. 
+- Detection Lab
+- Malware Detector using Python
 
 <!--
 - Spidey - Custom Linux distro based on `Kali Linux`
-- Detection Lab
 - SOC Automation Project
-- Malware Detector using Python
 - NFT Marketplace using Blockchain
 - Personalized Firewall using Python, Bash
 - File Zipper using C++
@@ -130,38 +103,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 -->
 
 ## ⇢ Upcoming Projects
-- Spidey - Custom Linux distro based on `Kali Linux` [Working]
-- Detection Lab
 - SOC Automation Project
-- Malware Detector using Python
-- NFT Marketplace using Blockchain
 - Personalized Firewall using Python, Bash
 - File Zipper using C++
-- e-Voting system using BlockChain
-- Personal Bank payment gateway using Solidity
-- Simple Auction using Solidity
 
 
 
 ## ⇢ Outro
 Cybersecurity is a constant game of anticipation, and I thrive in that space. I’ve built my skills around understanding threats before they become problems, and I’m always looking for ways to push boundaries in security. This conversation has been great, and I appreciate the opportunity to discuss my experience. If there’s one thing I can guarantee, it’s that I don’t just bring skills—I bring a mindset that’s always a step ahead. Looking forward to what’s next
-
-
-
-<!--
-### Hi there 👋
-**k-priyansh/k-priyansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
