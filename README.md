@@ -6,15 +6,17 @@
 <!--
 [Brief Introduction - Remove this afterwards]
 I am a Cyber Security Student with a profound interest in technology and a dedication to solving complex problems.
--->
 Greetings, my name is Priyansh, and I am pursuing a Bachelor of Computer Applications degree. My focus also extends to Cyber Security, AI and Blockchain Development.
+-->
+
+Cybersecurity isn’t just something I study—it’s a battlefield, and I like to stay three steps ahead. I’m Priyansh Khandal, a cybersecurity enthusiast specializing in Python development, malware analysis, bug hunting, and network security. I’ve earned certifications from Cisco and Microsoft, and my latest project—a real-time keylogger detection tool—taught me how to think like an attacker to build stronger defenses. I thrive on solving complex security challenges, and I’m always looking for ways to push the boundaries of cybersecurity.
 
 
 <!-- ## ⇢ Objective -->
 <!--
     [Provide Objective - Remove this afterwards]]
--->
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
+-->
 
 ---
 <!--
@@ -140,6 +142,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Simple Auction using Solidity
 
 
+
+## ⇢ Outro
+Cybersecurity is a constant game of anticipation, and I thrive in that space. I’ve built my skills around understanding threats before they become problems, and I’m always looking for ways to push boundaries in security. This conversation has been great, and I appreciate the opportunity to discuss my experience. If there’s one thing I can guarantee, it’s that I don’t just bring skills—I bring a mindset that’s always a step ahead. Looking forward to what’s next
 
 
 
