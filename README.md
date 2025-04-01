@@ -20,7 +20,9 @@ Greetings, my name is Priyansh, and I am pursuing a Bachelor of Computer Applica
 -->
 <br>
 
+<!---
 ## ⇢ Skills
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="">Detection Lab</a>|
@@ -29,6 +31,8 @@ Greetings, my name is Priyansh, and I am pursuing a Bachelor of Computer Applica
 | Incident Response Planning and Execution      | <a href="">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="">SOC Automation Lab</a>|
+
+-->
 
 ## ⇢ Tools
 
