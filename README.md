@@ -11,7 +11,13 @@ I am a Cyber Security Student with a profound interest in technology and a dedic
 Greetings, my name is Priyansh, and I am pursuing a Bachelor of Computer Applications degree. My focus also extends to Cyber Security, AI and Blockchain Development.
 -->
 
+<!--
 <br>I’m <strong>Priyansh Khandal</strong>, a cybersecurity enthusiast specializing in Python development, malware analysis, bug hunting, and network security. I’ve earned certifications from Cisco and Microsoft, and my latest project-a real-time keylogger detection tool—taught me how to think like an attacker to build stronger defenses. I thrive on solving complex security challenges, and I’m always looking for ways to push the boundaries of cybersecurity.
+-->
+
+<br>I’m <strong>Priyansh Khandal</strong>, a cybersecurity specialist with expertise in Network Security, Malware analysis, bug bounty hunting, and Python development. Backed by certifications from Cisco and Microsoft, I approach security challenges with both an attacker’s mindset and a defender’s discipline. My latest project—a real-time keylogger detection tool—honed my skills in anticipating threats before they strike. I thrive in high-pressure problem-solving environments, pushing the boundaries of cybersecurity to create smarter, stronger defenses.
+
+
 
 
 <!-- 
